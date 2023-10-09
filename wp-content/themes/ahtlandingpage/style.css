@@ -1,0 +1,48 @@
+.btn-circle.btn-md {
+  width: 40px;
+  height: 40px;
+  padding: 8px 10px;
+  border-radius: 60px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.btn-circle.btn-sm {
+  width: 30px;
+  height: 30px;
+  border-radius: 60px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.icon-circle {
+  width: 30px;
+  height: 30px;
+  padding: 5px 8px;
+  border-radius: 60px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.text-logo {
+}
+
+.text-color-facebook {
+  color: #3b5998 !important;
+}
+
+.text-color-primary {
+  color: #41bedd !important;
+}
+
+.text-color-secondary {
+  color: #a255c4 !important;
+}
+
+.border-color-primary {
+  border-color: #41bedd !important;
+}
+
+.border-color-secondary {
+  border-color: #a255c4 !important;
+}
